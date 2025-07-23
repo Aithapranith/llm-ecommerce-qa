@@ -1,6 +1,11 @@
 # 🛒 LLM E-commerce QA
 
 An AI-powered question-answering system for e-commerce datasets using LLMs like Groq/OpenAI/Gemini. Users can ask natural language questions (e.g., "What is the total ad spend for each item?") and get intelligent SQL-based answers backed by real data.
+(https://drive.google.com/file/d/1P0oMbYyN5S2H3bs2pQgwBZk6f_wvMgQZ/view?usp=drive_link)
+![1](https://github.com/user-attachments/assets/120ea16b-029e-4ec8-ad5a-d08dacd70b18)
+
+![2](https://github.com/user-attachments/assets/7d88ab3d-fc50-45e1-aa5b-dab8053fa620)
+
 
 ## 📌 Features
 
@@ -22,6 +27,7 @@ An AI-powered question-answering system for e-commerce datasets using LLMs like 
 - **Dotenv** – For secure environment variable management
 
 ## 📁 Project Structure
+
 genai_ecommerce_qa/
 ├── app/
 │ ├── main.py # FastAPI app
@@ -39,3 +45,5 @@ genai_ecommerce_qa/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+
